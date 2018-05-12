@@ -1,0 +1,28 @@
+_repo: History-of-Halifax-City_38666
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Akins, Thomas B.
+    alias: Akins, Thomas Beamish
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '39603'
+    url: http://www.gutenberg.org/2009/agents/39603
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Beamish_Akins
+description: ''
+gutenberg_issued: '2012-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Halifax (N.S.) -- History'
+- !lcc 'F1001'
+title: History of Halifax City
+url: http://www.gutenberg.org/ebooks/38666
